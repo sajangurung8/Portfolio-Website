@@ -1,0 +1,37 @@
+[
+  {
+    "Year": "2015",
+    "Location": "Fort Jackson, South Carolina",
+    "Acomplishment":"Finished Army Basic Training"
+  },
+  {
+    "Year":"2016",
+    "Location": "Fort Eustis, Verginia/ Oahu, Hawaii",
+    "Acomplishment":"Finished Army Individual Training for AH-64 Helicopter Mechaninc."
+  },
+  {
+    "Year":"2017",
+    "Location": "Oahu, Hawaii",
+    "Acomplishment":"Completed first general education course"
+  },
+  {
+    "Year":"2018",
+    "Location": "Oahu, Hawaii",
+    "Acomplishment":"Completed classes"
+  },
+  {
+    "Year":"2019",
+    "Location": "Oahu, Hawaii/JBLM, Washington",
+    "Acomplishment":"PCS move to JBLM from hawaii, completed BLC"
+  },
+  {
+    "Year":"2020",
+    "Location": "JBLM, Washington",
+    "Acomplishment":"Graduated from University of Global Campus with a BS in Computer Science"
+  },
+  {
+    "Year":"2021",
+    "Location": "Puyallup, Washington",
+    "Acomplishment":"Finished Army Individual Training for AH-64 Helicopter Mechaninc"
+  }
+]
